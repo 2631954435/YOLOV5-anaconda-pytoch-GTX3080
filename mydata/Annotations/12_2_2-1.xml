@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomatos</folder>
+	<filename>12_2_2-1.jpg</filename>
+	<path>C:\Users\hp\Desktop\tomatos\12_2_2-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>160</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>40</ymin>
+			<xmax>140</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

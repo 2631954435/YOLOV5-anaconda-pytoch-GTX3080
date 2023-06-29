@@ -1,0 +1,26 @@
+<annotation>
+	<folder>z</folder>
+	<filename>33_2_1.jpg</filename>
+	<path>F:\d\z\33_2_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>25</ymin>
+			<xmax>145</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

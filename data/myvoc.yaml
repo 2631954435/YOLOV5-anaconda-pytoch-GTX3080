@@ -1,0 +1,7 @@
+train: G:/yolov5-master/mydata/dataSet_path/train.txt
+val: G:/yolov5-master/mydata/dataSet_path/val.txt
+
+nc: 1
+
+
+names: ["toamto"]
